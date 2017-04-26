@@ -1,0 +1,28 @@
+<resources>
+    <!-- Main Headers -->
+    <string name="app_name">Semester Project</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Tab Names -->
+    <string name="tab_name_volume">Volume</string>
+    <string name="tab_name_wifi">Wifi</string>
+    <string name="tab_name_bluetooth">Bluetooth</string>
+    <string name="tab_name_headphones">Headphones</string>
+
+    <!-- fragment_time.xml -->
+    <string name="choose_start_time">Start Time</string>
+    <string name="choose_end_time">End Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- fragment_volume.xml -->
+    <string name="start_volume_label">Set the Volume for when the Rule is Active:</string>
+    <string name="vibrate_label">Vibrate</string>
+    <string name="volume_label">Volume</string>
+    <string name="end_volume_label">Set the Volume for when the Rule is Inactive</string>
+
+    <!-- dialog_fragment_rule_type.xml -->
+    <string name="time_rule">Time Rule</string>
+    <string name="location_rule">Location Rule</string>
+</resources>
